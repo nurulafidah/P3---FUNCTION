@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body{
+    background-color: skyblue;
+    background-size: 500px;
+}
+
+h2 {
+    margin-top: 10vw; 
+    text-align: center;
+}
+
+fieldset {
+    color: white;
+    text-align: center; 
+    padding: 2vw;
+    margin-top: 5vw;
+    margin-left: 20vw; 
+    margin-right: 20vw;
+    background-color: cadetblue;
+}
